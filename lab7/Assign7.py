@@ -57,14 +57,7 @@ def main():
 
 
 def encrypt(string):
-	cipher = ""
-	for i in range(2, len(string), 3):
-		cipher += string[i]
-	for i in range(1, len(string), 3):
-		cipher += string[i]
-	for i in range(0, len(string), 3):
-		cipher += string[i]
-	return cipher
+	return string[2::3] + string[1::3] + string[0::3]
 
 def decrypt(string):
 	mapping = {}

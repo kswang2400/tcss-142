@@ -1,0 +1,8 @@
+
+Total number of quakes: 230
+
+Region with the highest number of earthquakes: NEAR THE EAST COAST OF HONSHU, JAPAN
+
+Total number of quakes: 21
+
+Region with the highest number of earthquakes: TONGA

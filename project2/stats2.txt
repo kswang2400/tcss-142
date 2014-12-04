@@ -1,0 +1,20 @@
+REGION                                          MODERATE     STRONG      MAJOR      GREAT    OVERALL
+
+CENTRAL PERU                                           1          0          0          0          1
+COMOROS REGION                                         1          0          0          0          1
+GUATEMALA                                              1          0          0          0          1
+HOKKAIDO, JAPAN REGION                                 1          0          0          0          1
+IZU ISLANDS, JAPAN REGION                              1          0          0          0          1
+KEPULAUAN BARAT DAYA, INDONESIA                        0          1          0          0          1
+MACQUARIE ISLAND REGION                                1          0          0          0          1
+NEAR THE SOUTH COAST OF PAPUA, INDONESIA               1          0          0          0          1
+NEW BRITAIN REGION, PAPUA NEW GUINEA                   1          0          0          0          1
+NEW IRELAND REGION, PAPUA NEW GUINEA                   1          0          0          0          1
+NICOBAR ISLANDS, INDIA REGION                          1          0          0          0          1
+NORTHEAST OF TAIWAN                                    1          0          0          0          1
+NORTHERN MID-ATLANTIC RIDGE                            1          0          0          0          1
+OFF THE WEST COAST OF NORTHERN SUMATRA                 1          0          0          0          1
+SICHUAN-YUNNAN-GUIZHOU REGION, CHINA                   1          0          0          0          1
+SOUTH OF THE FIJI ISLANDS                              1          0          0          0          1
+SOUTH SANDWICH ISLANDS REGION                          1          0          0          0          1
+TONGA                                                  3          1          0          0          4

@@ -137,5 +137,3 @@ def arabicToRoman(arabic):	# convert arabic numbers to Roman Numerals
 	return number
 
 main()
-
-
